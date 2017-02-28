@@ -32,6 +32,11 @@ prime_heap
 anagrams
 markov
 csv
+gu/main
+gu/test_gu
+gu/test_shrdlu
+gu/test_sheet
+gu/gu
 
 # Rubbish
 *~
@@ -40,3 +45,8 @@ DS_Store
 .[#]*[#]
 .[#]*
 *.log
+*.aux
+*.pdf
+*.tex
+
+
