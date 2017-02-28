@@ -27,3 +27,16 @@
 *.exe
 *.out
 *.app
+nthroot
+prime_heap
+anagrams
+markov
+csv
+
+# Rubbish
+*~
+DS_Store
+[#]*[#]
+.[#]*[#]
+.[#]*
+*.log
